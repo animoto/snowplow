@@ -3,7 +3,7 @@ GEM
   specs:
     builder (3.2.2)
     contracts (0.4)
-    excon (0.37.0)
+    excon (0.78.1)
     fog (1.22.1)
       fog-brightbox
       fog-core (~> 1.22)
